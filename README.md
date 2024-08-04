@@ -1,1 +1,1 @@
-Esse é o readme do cusdo de Git e Github OneBitCode.
+echo "# cursoGitGitHub-OneBitCode" >> README.md
